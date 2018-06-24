@@ -1,0 +1,14 @@
+.content {
+  margin: 50px auto;
+}
+
+.left {
+  float: left;
+  width: 70%;
+}
+
+canvas {
+  display: block;
+  margin: 0px auto;
+  background: #0f0f0f;
+}
